@@ -17,13 +17,13 @@
 - 📫 How to reach me **mihansari.jh@gmail.com**
 
 
-<h3>Technologies</h3>
+<h3>Real world impact</h3>
 
-* 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 𝐚𝐧𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈: Extensive hands-on experience with LLMs, AI agents, building RAG systems.
-* 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧: Scene text detection, classification, object detection, self-supervised learning, diffusion models.
-* 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠: Expertise in Named Entity Recognition, text classification, t2t.
-* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: Proficiency in frameworks like TensorFlow, PyTorch
-* 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩: Experienced in managing cross-functional teams and delivering AI solutions in production environments.
+* **Large Language Models & Gen AI**: Extensive hands-on experience with LLMs, AI agents, building RAG systems.
+* **Computer Vision**: Scene text detection, classification, object detection, self-supervised learning, diffusion models.
+* **Natural Language Processing**: Expertise in Named Entity Recognition, text classification, t2t.
+* **Machine Learning & Deep Learning**: Proficiency in frameworks like TensorFlow, PyTorch
+* **Project Leadership**: Experienced in managing cross-functional teams and delivering AI solutions in production environments.
 
 
 <h3 align="left">Connect with me:</h3>
