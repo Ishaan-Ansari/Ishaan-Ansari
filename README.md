@@ -14,7 +14,7 @@ I am a Machine Learning Engineer and Data Scientist dedicated to developing AI-p
 </p>
 
 - 🔭 **Current Focus**: Building end-to-end Generative AI (LLMs) pipelines.  
-- 🌱 **Learning**: Model Context Protocol, A2A
+- 🌱 **Learning**: Model Context Protocol, Agent2Agent
 - ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
 - 🚀 **Portfolio**: [Visit My Website](https://www.iansari.ai/)  
 - 📫 **Contact**: **mihansari.jh@gmail.com**  
