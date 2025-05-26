@@ -3,8 +3,8 @@
 </p>
 
 <!-- Header Section -->
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ishaan</h1>
-<h3 align="left">ML Engineer | Data Scientist | MLOps Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ishaan</h1>
+<h3 align="center">ML Engineer | Data Scientist | MLOps Enthusiast</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 I am a Machine Learning Engineer and Data Scientist dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
 </p>
 
-- 🔭 **Current Focus**: Building end-to-end machine learning pipelines with MLOps.  
+- 🔭 **Current Focus**: Building end-to-end Generative AI (LLMs) pipelines.  
 - 🌱 **Learning**: Model Context Protocol, A2A
 - ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
 - 🚀 **Portfolio**: [Visit My Website](https://www.iansari.ai/)  
