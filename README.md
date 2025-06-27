@@ -138,5 +138,5 @@ I’ve fixed slots as per my normal availability but you can always let me know 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together. 🚀</i>
+  <i> Let's build something amazing together. 🚀</i>
 </p>
