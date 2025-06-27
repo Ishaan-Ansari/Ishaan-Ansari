@@ -10,7 +10,7 @@
 
 <!-- Introduction -->
 ### A little bit about me:
-I am a Machine Learning Engineer dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
+I am a **Machine Learning Engineer** dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
 
 ---
 ### What I’m Working On
@@ -131,7 +131,7 @@ I am a Machine Learning Engineer dedicated to developing AI-powered solutions th
 ### Connect With Me 
 - Connect with on twitter/x at [@iamihansari](https://x.com/iamihansari)
 - You can shoot me a mail at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
-- Want to share our interests, do collaborations, discuss recent advancements and stuff? don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
+- Want to share interests, do collaborations, discuss recent advancements and stuff? don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
 
 I’ve fixed slots as per my normal availability but you can always let me know if i’m available on your preferred slots. (Please do reach out on X DMs if you’ve something to share)
 
