@@ -4,38 +4,32 @@
 
 <!-- Header Section -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ishaan</h1>
-<h3 align="center">ML Engineer | Data Scientist | MLOps Enthusiast</h3>
+<!-- <h3 align="center">ML Engineer | Data Scientist | MLOps Enthusiast</h3> >
 
 ---
 
 <!-- Introduction -->
 <p align="left">
+### A little bit about me:
 I am a Machine Learning Engineer and Data Scientist dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
 </p>
 
-- 🔭 **Current Focus**: Building end-to-end Generative AI (LLMs) pipelines.  
-- 🌱 **Learning**: Model Context Protocol, Agent2Agent
-- ⚙️ **Skills**: Machine Learning | Model Deployment | Data-Driven Applications.  
-- 🚀 **Portfolio**: [Visit My Website](https://www.iansari.ai/)  
-- 📫 **Contact**: **mihansari.jh@gmail.com**  
+---
+### What I’m Working On
+- Implementing papers and novel architectures  
+- Diving deeper into foundational concepts  
+- Focusing on backend systems and LLMOps  
+- Building some cool ML projects  
+---
+
+# Some Fun Facts About Me
+
+- I love those *architectures*! I’m usually fascinated by how things work under the hood, the underlying maths, and how to make intuitions.
+- I passionately write and publish blogs around ML, DL, CV, and NLP. My focus has always been to write as intuitively as possible, keeping the flow interesting. It can sometimes be the case that I bore readers explaining the mathematics behind those approaches and architectures (believe me, those are lovely!).
+- Exploring, ideating, and building AI agents.
 
 ---
 
-<!-- Connect With Me -->
-<h3 align="left">🤝 Connect With Me</h3>
-<p align="left">
-<a href="https://x.com/iamihansari" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/ishaanansari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mihansari.jh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
----
 <!-- Header -->
 <h3 align="left">🛠️ Tools & Technologies</h3>
 
@@ -133,3 +127,16 @@ I am a Machine Learning Engineer and Data Scientist dedicated to developing AI-p
 ### 🔧 Other Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+--- 
+<!-- Connect With Me -->
+<h3 align="left">Connect With Me</h3>
+<p align="left">
+- Connect with on twitter/x [@iamihansari](https://x.com/iamihansari)
+- You can shoot me a mail at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
+- Want to share our interests, do collaborations, discuss recent advancements and stuff? don’t hesitate to
+
+I’ve fixed slots as per my normal availability but you can always let me know if i’m available on your preferred slots. (Please do reach out on X DMs if you’ve something to share)
+
+---
+
