@@ -10,7 +10,7 @@
 
 <!-- Introduction -->
 ### A little bit about me:
-I am a **Machine Learning Engineer** dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable machine learning models, automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
+I am a **Machine Learning Engineer** dedicated to developing AI-powered solutions that solve <b>real-world problems</b>. My focus lies in designing scalable, generative AI systems that simplify complexity, by automating workflows with <b>MLOps</b>, and optimizing systems for production deployment. I love exploring new technologies and transforming raw data into meaningful insights.
 
 ---
 ### What I’m Working On
