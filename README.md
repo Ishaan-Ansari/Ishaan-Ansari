@@ -20,11 +20,8 @@ I am a **Machine Learning Engineer** dedicated to developing AI-powered solution
 - Building some cool ML projects  
 ---
 
-### Some Fun Facts About Me
-
-- I love those *architectures*! I’m usually fascinated by how things work under the hood, the underlying maths, and how to make intuitions.
-- I passionately write and publish blogs around ML, DL, CV, and NLP. My focus has always been to write as intuitively as possible, keeping the flow interesting. It can sometimes be the case that I bore readers explaining the mathematics behind those approaches and architectures (believe me, those are lovely!).
-- Exploring, ideating, and building AI agents.
+### Research interests: 
+My research interests lie at the intersection of multimodal systems in **vision** and **language** domains, with a focus on enhancing reasoning and decision-making capabilities. I am particularly interested in addressing the challenges faced by large **multi-modal** models across discriminative, generative, and perceptual understanding tasks, especially in Out-Of-Distribution (OOD) and federated scenarios. 
 
 ---
 
