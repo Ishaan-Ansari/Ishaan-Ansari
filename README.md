@@ -22,9 +22,6 @@ I'm a **Machine Learning Engineer** working at the intersection of computer visi
 - Connect with on twitter/x at [@iamihansari](https://x.com/iamihansari)
 - You can shoot me a mail at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
 - Want to share interests, do collaborations, discuss recent advancements and stuff? don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
-
-I’ve fixed slots as per my normal availability but you can always let me know if i’m available on your preferred slots. (Please do reach out on X DMs if you’ve something to share)
-
 ---
 
 <p align="center">
