@@ -14,18 +14,8 @@
 I'm a **Machine Learning Engineer** working at the intersection of computer vision and large language models. 
 
 ---
-### What I’m currently on
-- Implementing papers and novel architectures  
-- Diving deeper into foundational concepts  
-- Focusing on backend systems and LLMOps  
-- Building some cool ML projects  
----
 
-### Connect With Me 
-- Connect with on twitter/x at [@iamihansari](https://x.com/iamihansari)
-- You can shoot me an email at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
-- Want to share interests, do collaborations, discuss recent advancements, and stuff? Don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
----
+
 
 ## My approach to building AI systems
 
@@ -46,7 +36,21 @@ def architect_ai_system(business_requirements):
     return simple_and_maintainable()
 ```
 
+---
+### What I’m currently on
+- Implementing papers and novel architectures  
+- Diving deeper into foundational concepts  
+- Focusing on backend systems and LLMOps  
+- Building some cool ML projects  
+---
 
+
+
+### Connect With Me 
+- Connect with on twitter/x at [@iamihansari](https://x.com/iamihansari)
+- You can shoot me an email at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
+- Want to share interests, do collaborations, discuss recent advancements, and stuff? Don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
+---
 
 <p align="center">
   <i> Let's build something amazing together. </i>
