@@ -37,11 +37,10 @@ def architect_ai_system(business_requirements):
 ```
 
 ---
-### What I’m currently on
+### What I’m currently working on
+- Scalability challenges in tech, infra, engineering productivity, and finance.
 - Implementing papers and novel architectures  
 - Diving deeper into foundational concepts  
-- Focusing on backend systems and LLMOps  
-- Building some cool ML projects  
 ---
 
 
