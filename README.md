@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
-### A little bit about me:
-I'm a **Machine Learning Engineer** working at the intersection of computer vision and large language models. 
+### A little bit about me
+I help enterprises architect and deploy production-grade AI infrastructure at scale. 
 
 ---
 
