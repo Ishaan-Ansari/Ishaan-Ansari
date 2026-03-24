@@ -1,7 +1,7 @@
 
 <!-- Introduction -->
 ### A little bit about me
-I help enterprises architect and deploy production-grade AI infrastructure at scale. 
+I help enterprises architect and deploy production-grade AI workflows at scale. 
 
 ---
 
