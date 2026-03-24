@@ -1,14 +1,4 @@
 
-
-<!-- Header Section -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ishaan</h1>
-<!-- <h3 align="center">ML Engineer | Data Scientist | MLOps Enthusiast</h3> >
-
----
-
-
-<div align="center">
-
 <!-- Introduction -->
 ### A little bit about me:
 I'm a **Machine Learning Engineer** working at the intersection of computer vision and large language models. 
