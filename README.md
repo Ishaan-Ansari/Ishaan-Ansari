@@ -44,7 +44,7 @@ def architect_ai_system(business_requirements):
 
 
 
-## Open source
+## Field Notes
 
 | Repo | What |
 |------|------|
@@ -55,14 +55,13 @@ def architect_ai_system(business_requirements):
 | **[Tokenizer](https://github.com/Ishaan-Ansari/Tokenizer-from-scratch)** | This project demonstrates word-level, character-level & Byte-Pair encoding tokenization, assigning token IDs and visualizing them with custom colors. |
 | **[LLM from Scratch](https://github.com/Ishaan-Ansari/LLM-from-scratch)** | This repository provides a step-by-step implementation of a Large Language Model (LLM) from scratch, covering data preparation, model building, pretraining, and fine-tuning. |
 | **[Inference Engineering](https://github.com/Ishaan-Ansari/GPU-primer)** | A hands-on series on making LLM inference faster. It covers the theory, the systems reality, and runnable code you can reproduce on a single rented GPU for about a dollar. |
-| **[AWS Resource Cleanup Guide](https://github.com/Ishaan-Ansari/AWS-Resource-Cleanup-Guide)** | While working with AWS, ensure you keep track of all the running and discarded services. |
 | **[MLOps Primer](https://github.com/Ishaan-Ansari/MLOps-best-practices)** | Practical guide to build end-to-end machine learning pipeline and deploy your model in production. |
-
+| **[AWS Resource Cleanup Guide](https://github.com/Ishaan-Ansari/AWS-Resource-Cleanup-Guide)** | While working with AWS, ensure you keep track of all the running and discarded services. |
 
 
 ## Writing · [Gradient Ascent 101](https://gradientascent101.substack.com/)
 
-Technical depth over surface-level explanations:
+Signal over noise. Deep dives into production AI and systems architecture:
 
 - [Designing Reliable LLM Evaluation Pipelines](https://gradientascent101.substack.com/p/designing-reliable-llm-evaluation)
 
