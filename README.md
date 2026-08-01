@@ -48,7 +48,8 @@ def architect_ai_system(business_requirements):
 
 | Repo | What it is about? |
 |------|------|
-| **[Machine Learning](https://github.com/Ishaan-Ansari/ML-from-scratch)** | The purpose of this project is to provide and learn a deeper understanding of the ML fundamentals. |
+| **[Machine Learning](https://github.com/Ishaan-Ansari/ML-from-scratch)** | The purpose of this project is to provide and learn a deeper understanding of ML fundamentals. |
+| **[Activation functions](https://github.com/Ishaan-Ansari/ML-from-scratch)** | It's an ever-evolving project, Implemented more than 10 activation functions and their derivatives. With more updates planned. |
 | **[Deep Learning](https://github.com/Ishaan-Ansari/Deep-Learning-from-scratch)** | This project aims to provide a deeper understanding of how neural networks function internally, without relying on high-level libraries. |
 | **[Designing Data Intensive Applications](https://github.com/Ishaan-Ansari/Designing-Data-Intensive-Applications)** | My reading notes following "Designing Data Intensive Applications" (DDIA) by Martin Kleppmann |
 | **[AI Powered Search](https://github.com/Ishaan-Ansari/AI-Powered-Search)** | My reading notes following " AI-Powered Search" by Doug Turnbull, Max Irwin, and Trey Grainger. |
@@ -68,8 +69,8 @@ Signal over noise. Deep dives into production AI and systems architecture:
 
 | | |
 |---|---|
-| **Now** | ML Engineer II at BOLD (Monster.com & CareerBuilder.com): Building retrieval systems and integrating GenAI(LLMs) to connect job seekers with relevant career opportunities  |
-| **Before** | As an ML Engineer, I worked on building [yHealth](https://www.y-health.in/), a hyper-personalized app on meals, medicine, and  overall lifestyle specifically for diabetic patients; developed and deployed 4 core features from scratch. |
+| **Now** | ML Engineer II at BOLD (Monster.com & CareerBuilder.com): Building retrieval systems and integrating GenAI(LLMs) to connect job seekers with relevant career opportunities.  |
+| **Before** | As an ML Engineer, I worked on building [yHealth](https://www.y-health.in/), an LLM-powered hyper-personalized meals, medicine, and  overall lifestyle application, specifically for diabetic patients · Engineered and deployed 4 core features from scratch. |
 
 **Stack:** Python · PyTorch · Vector Search / OpenSearch · LangGraph & LangChain · AWS (Lambda, SQS, Fargate, RDS) · Kubernetes 
 
