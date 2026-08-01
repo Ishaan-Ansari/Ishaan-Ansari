@@ -81,9 +81,3 @@ Signal over noise. Deep dives into production AI and systems architecture:
 - You can shoot me an email at [mihansari.jh@gmail.com](mailto:mihansari.jh@gmail.com)
 - Want to share interests, do collaborations, discuss recent advancements, and stuff? Don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
 ---
-
-<div align="center">
-
-### _Let's build something together_
-
-</div>
