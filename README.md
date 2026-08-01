@@ -31,7 +31,7 @@ def architect_ai_system(business_requirements):
 
 ## Building
 
-| Project | What it is |
+| Project | Description |
 |---------|------------|
 | **[MIRAGE](https://github.com/Ishaan-Ansari/MIRAGE)** | Multimodal RAG framework that intelligently integrates visual embeddings from medical images with retrieved clinical knowledge, leveraging dynamic prompt control to enhance factual precision and interpretability in medical reasoning tasks. |
 | **[Claimova](https://github.com/Ishaan-Ansari/Claimova)** | Automation engine leveraging document AI and decision workflows to reduce denial rates and accelerate payout pipelines |
@@ -46,7 +46,7 @@ def architect_ai_system(business_requirements):
 
 ## Field Notes
 
-| Repo | What |
+| Repo | What it is about? |
 |------|------|
 | **[Machine Learning](https://github.com/Ishaan-Ansari/ML-from-scratch)** | The purpose of this project is to provide and learn a deeper understanding of the ML fundamentals. |
 | **[Deep Learning](https://github.com/Ishaan-Ansari/Deep-Learning-from-scratch)** | This project aims to provide a deeper understanding of how neural networks function internally, without relying on high-level libraries. |
@@ -59,11 +59,21 @@ def architect_ai_system(business_requirements):
 | **[AWS Resource Cleanup Guide](https://github.com/Ishaan-Ansari/AWS-Resource-Cleanup-Guide)** | While working with AWS, ensure you keep track of all the running and discarded services. |
 
 
-## Writing · [Gradient Ascent 101](https://gradientascent101.substack.com/)
-
+## Writing · [Gradient Ascent 101](https://gradientascent101.substack.com/) 
 Signal over noise. Deep dives into production AI and systems architecture:
 
 - [Designing Reliable LLM Evaluation Pipelines](https://gradientascent101.substack.com/p/designing-reliable-llm-evaluation)
+
+## Background
+
+| | |
+|---|---|
+| **Now** | ML Engineer II at BOLD (Monster.com & CareerBuilder.com): Building retrieval systems and integrating GenAI(LLMs) to connect job seekers with relevant career opportunities  |
+| **Before** | As an ML Engineer, I worked on building [yHealth](https://www.y-health.in/), a hyper-personalized app on meals, medicine, and  overall lifestyle specifically for diabetic patients; developed and deployed 4 core features from scratch. |
+
+**Stack:** Python · PyTorch · Vector Search / OpenSearch · LangGraph & LangChain · AWS (Lambda, SQS, Fargate, RDS) · Kubernetes 
+
+---
 
 
 ### Connect With Me 
@@ -72,6 +82,8 @@ Signal over noise. Deep dives into production AI and systems architecture:
 - Want to share interests, do collaborations, discuss recent advancements, and stuff? Don’t hesitate to [schedule a call!](https://calendly.com/mihansari-jh/30min)
 ---
 
-<p align="center">
-  <i> Let's build something amazing together. </i>
-</p>
+<div align="center">
+
+### _Let's build something together_
+
+</div>
