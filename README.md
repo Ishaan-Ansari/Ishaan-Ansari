@@ -70,8 +70,8 @@ Signal over noise. Deep dives into production AI and systems architecture:
 
 | | |
 |---|---|
-| **Now** | ML Engineer II at BOLD (Monster.com & CareerBuilder.com): Building personalized search and recommendation systems. Integrating GenAI (LLMs) to optimize job matching and connect candidates with relevant career opportunities.  |
-| **Before** | As an ML Engineer, I worked on building [yHealth](https://www.y-health.in/), an LLM-powered hyper-personalized meals, medicine, and  overall lifestyle application, specifically for diabetic patients · Engineered and deployed 4 core features from scratch. |
+| **Now** | **ML Engineer II** at **BOLD (Monster.com & CareerBuilder.com)**: Building personalized search and recommendation systems. Integrating GenAI (LLMs) to optimize job matching and connect candidates with relevant career opportunities.  |
+| **Before** | As an **ML Engineer**, I worked on building [yHealth](https://www.y-health.in/), an LLM-powered hyper-personalized meals, medicine, and  overall lifestyle application, specifically for diabetic patients · Engineered and deployed 4 core features from scratch. |
 
 **Stack:** Python · PyTorch · Vector Search / OpenSearch · LangGraph & LangChain · AWS (Lambda, SQS, Fargate, RDS) · Kubernetes 
 
