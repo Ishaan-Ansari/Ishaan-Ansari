@@ -64,6 +64,7 @@ def architect_ai_system(business_requirements):
 Signal over noise. Deep dives into production AI and systems architecture:
 
 - [Designing Reliable LLM Evaluation Pipelines](https://gradientascent101.substack.com/p/designing-reliable-llm-evaluation)
+- [RecSys 101: Fundamentals of Recommendation Systems](https://gradientascent101.substack.com/p/recsys-101-fundamentals-of-recommendation)
 
 ## Background
 
